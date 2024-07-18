@@ -85,7 +85,7 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "@HosseinStore_Za § 0"
+        "alirezaabbaspoor § 0"
       ],
       "default": "auto"
     },
@@ -93,7 +93,7 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "@HosseinStore_Za § 0"
+        "alirezaabbaspoor § 0"
       ],
       "url": "http://connectivitycheck.gstatic.com/generate_204",
       "interval": "10m0s",
@@ -101,7 +101,7 @@
     },
     {
       "type": "vless",
-      "tag": "Alirezaabbaspoor § 0",
+      "tag": "alirezaabbaspoor § 0",
       "server": "Zula.ir",
       "server_port": 2052,
       "uuid": "c9970cb8-564b-4804-afc0-943faf595e3e",
